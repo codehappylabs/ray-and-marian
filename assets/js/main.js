@@ -77,7 +77,7 @@ $(document).ready(function() {
 
 
     /* ======= Google Map ======= */
-    map = new GMaps({
+/*    map = new GMaps({
         div: '#map',
         lat: 14.3073103,
         lng: 120.6750246,
@@ -95,7 +95,7 @@ $(document).ready(function() {
         }
 
 
-    });
+    });*/
 
 
     /*display marker 1 address on load */
